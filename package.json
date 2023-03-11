@@ -3,6 +3,7 @@
 	"autor": "Hector Ferreccio",
 	"description": "prueba para package.json",
 	"keywords": ["curso", "freecodecamp", "pruebas package.json"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
