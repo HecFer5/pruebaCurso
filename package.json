@@ -4,6 +4,7 @@
 	"description": "prueba para package.json",
 	"keywords": ["curso", "freecodecamp", "pruebas package.json"],
 	"license": "MIT",
+	"version": "1.0.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
