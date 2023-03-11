@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"autor": "Hector Ferreccio",
+	"description": "prueba para package.json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
